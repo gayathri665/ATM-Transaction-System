@@ -28,4 +28,26 @@ The application provides a user-friendly ATM interface where users can securely 
 
 ## Author
 
-Gayathri
+Gayathri Ganti
+
+## Screenshots
+
+### Welcome Page
+
+![Welcome Page](./welcome%20page.png)
+
+### Login Screen
+
+![Login Screen](./login%20page.png)
+
+### Main Menu
+
+![Main Menu](./main%20menu.png)
+
+### Receipt Screen
+
+![Receipt Screen](./receipt%20screen.png)
+
+### Withdrawal Page
+
+![Withdrawal Page](./withdrawal%20page.png)
